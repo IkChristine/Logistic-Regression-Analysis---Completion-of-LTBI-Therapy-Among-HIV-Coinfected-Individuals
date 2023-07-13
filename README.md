@@ -1,9 +1,12 @@
-# Masters Degree Final Project: 
+# Masters Degree Final Project (MAY 2016): 
 ## Logistic Regression Analysis, Comparing the Completion of Latent Tuberculosis Therapy of HIV-Coinfected Individuals and Other Chronic High Risk Groups.
 
 <p>&nbsp;</p>
 
-## ABSTRACT
+All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
+<p>&nbsp;</p>
+
+                                                                                                  ## ABSTRACT
 <p>&nbsp;</p>
 
 ### **Background**
@@ -11,7 +14,7 @@ As the most common infectious disease worldwide, tuberculosis (TB) remains a sig
 <p>&nbsp;</p>
 
 ### **Objective**
-To analyze the LTBI therapy rates among HIV co-infected persons compared to others with high risk chronic factors in the state of Florida.
+To analyze the LTBI therapy rates among HIV co-infected persons compared to others with high risk chronic factors in the state of Florida. This analysis will help identify some of the gaps in the cascade of care during LTBI treatment among high risk groups. The main hypothesis is that among LTBI patients, HIV co-infected patients will have equal completion rates of LTBI therapy as other high risk chronic groups. Understanding the gaps in the continuum of care for high risk LTBI patients would help bring about interventions that could be used in the TB prevention cascade of care approach for better delivery services for TB control program and adherence to treatment completion amongst LTBI patients.
 <p>&nbsp;</p>
 
 ### **Methods**
