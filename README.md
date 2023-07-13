@@ -6,7 +6,7 @@
 All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
 <p>&nbsp;</p>
 
-                                                                                                  ## ABSTRACT
+## ABSTRACT
 <p>&nbsp;</p>
 
 ### **Background**
