@@ -15,6 +15,8 @@ As the most common infectious disease worldwide, tuberculosis (TB) remains a sig
 
 ### **Objective**
 To analyze the LTBI therapy rates among HIV co-infected persons compared to others with high risk chronic factors in the state of Florida. This analysis will help identify some of the gaps in the cascade of care during LTBI treatment among high risk groups. The main hypothesis is that among LTBI patients, HIV co-infected patients will have equal completion rates of LTBI therapy as other high risk chronic groups. Understanding the gaps in the continuum of care for high risk LTBI patients would help bring about interventions that could be used in the TB prevention cascade of care approach for better delivery services for TB control program and adherence to treatment completion amongst LTBI patients.
+
+</p> HIV positive status was the main predictor and the other predictor variable was other chronic high risk groups which included chronic renal failure, diabetes, hematologic disorders, other specific malignancies, chronic immunosuppression treatment and chronic corticosteroid treatment.
 <p>&nbsp;</p>
 
 ### **Methods**
