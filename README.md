@@ -22,15 +22,15 @@ A retrospective analysis was conducted on a surveillance data reported to the Fl
 ### **Results**
 * Analysis 1:
 Out of 23,279 cases, 12,632 (54.26%) completed LTBI therapy. Of these, 509 (4.03%) were HIV positive. The results supported the hypothesis that HIV co-infected persons will have a higher rate of completion of therapy (127.2%) than HIV un-infected persons (Odds Ratio (OR) =2.423, Confidence Interval (CI): 2.036-2.883).
-<p>&nbsp;</p>
+
 
 * Analysis 2:
 Out of 22,577 cases (HIV infected persons excluded), 12,123 (53.70%) completed LTBI therapy. Of these, 363 (2.99%) had other high risk chronic factors. The results supported the hypothesis that those with other high risk chronic factors will have a higher rate of completion of LITBI therapy (54.3%) compared to those not in the high risk chronic factors group (OR= 1.543, CI: 1.298 -1.8352).
-<p>&nbsp;</p>
+
 
 * Analysis 3:
 Out of 1,219 cases with HIV and other high risk chronic factors, 835 (68.50%) completed therapy. Of these, 472 (56.54%) had HIV and 363 (43.47%) had other high risk chronic factors. Our hypothesis was not supported in this analysis because we found that those with other high risk chronic factors had a 33.9% lower rate of completing LTBI therapy compared to those with HIV (OR=1.543, CI: 1.298 -1.8352).
-<p>&nbsp;</p>
+
 
 ### **Conclusion**
 In this retrospective study analysis, having HIV co-infection and other high risk chronic factors predicted higher rates of completion of LTBI therapy with HIV twice as much completion rates compared to those with other high risk chronic factors. This study suggests that changes need to be made to increase adherence of completion of LTBI therapy among those with other high risk chronic factors since they also have a high risk of progressing into active TB without LTBI treatment.
