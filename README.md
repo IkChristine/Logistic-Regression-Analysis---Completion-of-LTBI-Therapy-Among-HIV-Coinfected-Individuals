@@ -1,7 +1,7 @@
 # Masters Degree Final Project (MAY 2016): 
 ## Logistic Regression Analysis, Comparing the Completion of Latent Tuberculosis Therapy of HIV-Coinfected Individuals and Other Chronic High Risk Groups.
 
-All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
+- All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
 <p>&nbsp;</p>
 
 ## ABSTRACT
