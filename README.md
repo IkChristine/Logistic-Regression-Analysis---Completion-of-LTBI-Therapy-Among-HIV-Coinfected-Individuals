@@ -4,13 +4,13 @@
 - All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
 <p>&nbsp;</p>
 
-#### Variables
+Data: 38,906 de-identified demographic and clinical data on LTBI cases reported in Florida from January 1, 2009 to January 29, 2016 
 
-Outcome variable: 
+#### Outcome variable: 
 - Completed therapy 
-Main predictor variable:
+#### Main predictor variable:
 - HIV positive
-Other predictor variables: (Other chronic high risk factors)
+#### Other predictor variables: (Other chronic high risk factors)
 - Chronic corticosteroid
 - Chronic immunosuppression
 - Chronic renal failure
