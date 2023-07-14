@@ -4,6 +4,20 @@
 - All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
 <p>&nbsp;</p>
 
+#### Variables
+
+Outcome variable: 
+- Completed therapy 
+Main predictor variable:
+- HIV positive
+Other predictor variables: (Other chronic high risk factors)
+- Chronic corticosteroid
+- Chronic immunosuppression
+- Chronic renal failure
+- Chronic diabetes
+- Chronic hematologic disorders
+- Other significant malignancies
+
 ## ABSTRACT
 <div class="alert alert-block alert-info" style="margin-top: 20px">
 
