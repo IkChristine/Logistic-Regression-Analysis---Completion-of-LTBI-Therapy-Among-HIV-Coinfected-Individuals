@@ -52,7 +52,7 @@ In this retrospective study analysis, having HIV co-infection and other high ris
 <p>&nbsp;</p>
 
 ### **Keywords: Latent Tuberculosis; LTBI treatment; HIV; systematic review.***
-
+<p>&nbsp;</p>
 
 ### References:
 * WHO. (n.d.). Latent Tuberculosis Infection (LTBI). Retrieved February 05, 2016, from http://www.who.int/tb/challenges/ltbi/en/ 
