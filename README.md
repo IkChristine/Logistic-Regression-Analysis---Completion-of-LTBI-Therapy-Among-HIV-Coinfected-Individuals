@@ -4,7 +4,6 @@
 - All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
 - Data: 38,906 de-identified demographic and clinical data on LTBI cases reported in Florida from January 1, 2009 to January 29, 2016 
 <p>&nbsp;</p>
-
 #### Outcome variable: 
 - Completed therapy 
 #### Main predictor variable:
