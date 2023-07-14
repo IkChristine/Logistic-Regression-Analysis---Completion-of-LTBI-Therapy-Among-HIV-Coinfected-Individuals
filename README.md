@@ -2,9 +2,8 @@
 ## Logistic Regression Analysis, Comparing the Completion of Latent Tuberculosis Therapy of HIV-Coinfected Individuals and Other Chronic High Risk Groups.
 
 - All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, NC) version.
+- Data: 38,906 de-identified demographic and clinical data on LTBI cases reported in Florida from January 1, 2009 to January 29, 2016 
 <p>&nbsp;</p>
-
-Data: 38,906 de-identified demographic and clinical data on LTBI cases reported in Florida from January 1, 2009 to January 29, 2016 
 
 #### Outcome variable: 
 - Completed therapy 
