@@ -52,3 +52,27 @@ In this retrospective study analysis, having HIV co-infection and other high ris
 <p>&nbsp;</p>
 
 ### **Keywords: Latent Tuberculosis; LTBI treatment; HIV; systematic review.***
+
+
+### References:
+•	WHO. (n.d.). Latent Tuberculosis Infection (LTBI). Retrieved February 05, 2016, from http://www.who.int/tb/challenges/ltbi/en/ 
+•	CDC. (2014). Fact Sheets: The Difference Between Latent TB Infection and TB Disease. Retrieved February 05, 2016, from http://www.cdc.gov/tb/publications/factsheets/general/ltbiandactivetb.htm 
+•	Dearborn Edwards and Charles H. Kirkpatrick "The Immunology of Mycobacterial Diseases",American Review of Respiratory Disease, Vol. 134, No. 5 (1986), pp. 1062-1071.
+•	doi: 10.1164/arrd.1986.134.5.1062
+•	CDC. (2015). Latent TB Infection: A Guide for Primary Health Care Providers. Retrieved from http://www.cdc.gov/tb/publications/ltbi/pdf/targetedltbi.pdf 
+•	Geneva: World Health Organization (WHO). (2015). Guidelines on the management of latent tuberculosis infection. WHO (The End TB Strategy), 1-38. Retrieved from http://apps.who.int/iris/bitstream/10665/136471/1/9789241548908_eng.pdf?ua=1&ua=1
+•	Styblo K. Recent advances in epidemiological research in tuberculosis. Adv Tuberc Res. 1980;20:1-63. PubMed PMID: 7395639.
+•	Al-Orainey IO. Diagnosis of latent tuberculosis: Can we do better? Ann Thorac Med. 2009 Jan;4(1):5-9. doi: 10.4103/1817-1737.44778. PubMed PMID: 19561914; PubMed Central PMCID: PMC2700471.
+•	CDC. (2016). TBESC-II Task order 1 Sub-Study Part B: Strengthening Public Health Surveillance For Latent Tuberculosis Infection.
+•	CDC. (2010). Tuberculosis Epidemiologic Studies Consortium (TBESC). Retrieved February 05, 2016, from http://www.cdc.gov/TB/topic/research/TBESC/default.htm 
+•	ATS/CDC. Targeted tuberculin testing and treatment of latent TB infection. MMWR 2000;49 (No. RR- 6) Retrieved February 26, 2016, from http://www.cdc.gov/mmwr/preview/mmwrhtml/rr4906a1.htm 
+•	WHO. (n.d.). Tuberculosis: Key Facts. Retrieved February 05, 2016, from http://www.who.int/mediacentre/factsheets/fs104/en/ 
+•	WHO. (n.d.). Global tuberculosis report 2015. Retrieved February 05, 2016, from http://www.who.int/tb/publications/global_report/en/ 
+•	Stop TB Partnership. (n.d.). Tuberculosis Profiles by Country. Retrieved February 05, 2016, from http://www.stoptb.org/countries/tbdata.asp 
+•	CDC. (2015). Tuberculosis in the United States: National Tuberculosis Surveillance System Highlights from 2014. Retrieved February 05, 2016, from http://www.cdc.gov/tb/statistics/surv/surv2014/default.htm 
+•	CDC. Reported Tuberculosis in the United States, 2014. Atlanta, GA: U.S. Department of Health and Human Services, CDC, October 2015.from http://www.cdc.gov/tb/statistics/reports/2014/pdfs/tb-surveillance-2014-report.pdf
+•	Hirsch-Moverman Y, Colson P, Bethel J, Franks J, El-Sadr W. Can a peer-based intervention impact adherence to the treatment of latent tuberculous infection? Int J Tuberc Lung Dis.2013;17:1178–85.
+•	Nyamathi A, Christiani A, Nahid P, Gregerson P, Leake B. A randomized controlled trial of two treatment programs for homeless adults with latent tuberculosis infection. Int J Tuberc Lung Dis. 2006;10:775–82. 
+•	Goldberg S, Wallace J, Jackson J, Chaulk C, Nolan C. Cultural case management of latent tuberculosis infection. Int J Tuberc Lung Dis. 2004;8:76–82.
+•	White MC, Tulsky JP, Goldenson J, Portillo CJ, Kawamura M, Menendez E. Randomized controlled trial of interventions to improve follow-up for latent tuberculosis infection after release from jail. Arch Intern Med. 2002;162:1044–50.
+
