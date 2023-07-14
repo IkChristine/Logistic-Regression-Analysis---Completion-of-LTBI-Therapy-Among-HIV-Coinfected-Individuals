@@ -6,7 +6,6 @@ All statistical analyses were done using the SAS 9.4 (SAS Institute Inc, Cary, N
 
 ## ABSTRACT
 <div class="alert alert-block alert-info" style="margin-top: 20px">
-<p>&nbsp;</p>
 
 ### **Background**
 As the most common infectious disease worldwide, tuberculosis (TB) remains a significant public health issue. In areas of low prevalence, such as the United States, many cases of TB are as a result of the reactivation of latent tuberculosis infection (LTBI) acquired prior to the TB diagnosis. Combined with HIV co-infection or other high risk factors, the rate of progressing into active TB disease greatly increases among LTBI persons. Therefore improving adherence to completion of LTBI treatment is very critical especially among high risk groups in order to eliminate TB.
