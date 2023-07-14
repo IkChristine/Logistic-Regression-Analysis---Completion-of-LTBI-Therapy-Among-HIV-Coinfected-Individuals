@@ -15,6 +15,7 @@
 - Chronic diabetes
 - Chronic hematologic disorders
 - Other significant malignancies
+<p>&nbsp;</p>
 
 ## ABSTRACT
 <div class="alert alert-block alert-info" style="margin-top: 20px">
